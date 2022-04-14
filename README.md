@@ -1,10 +1,10 @@
 # TOP-Recipes
 
-Project made with HTML following the [TOP Foundation lessons] ((https://www.theodinproject.com).
+Project made with HTML following the [TOP Foundation lessons] (https://www.theodinproject.com).
 
 ## See my result here
 
-[Recipes WebPage] (https://)
+[Recipes WebPage] (https://kfontana.github.io/odin-recipes/
 
 ### Technologies used
 
