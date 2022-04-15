@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(17, 137, 243, 0.1);
+    font-family: Verdana, sans-serif;
+}
+
+img{
+    height: auto;
+    width: 300px;    
+}
+
+.quote{
+    font-size: 13px;
+    text-align: right;
+}
