@@ -4,7 +4,7 @@ Project made with HTML and CSS following the <a href="https://www.theodinproject
 
 ## See my result here
 
- <a href="https://kfontana.github.io/odin-recipes/" target="_blank" rel="noopener noreferrer">Recipes webpage</a>
+ <a href="[https://kfontana.github.io/odin-recipes/](https://kfontana.github.io/odin-recipes/)" target="_blank" rel="noopener noreferrer">Recipes webpage</a>
 
 ## Technologies used
 
