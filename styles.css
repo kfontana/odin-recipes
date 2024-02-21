@@ -30,13 +30,26 @@ ol {
 
 .column {
   display: flex;
+  flex-direction: column;
   width: 800px;
   margin: 30px auto;
 }
 
 .column-description {
-  width: 30%;
-  margin: auto;
+  flex: 1;
+}
+
+.column-two {
+  display: flex;
+  justify-content: space-around;
+}
+
+.column-ingredients {
+  flex-basis: 50%;
+}
+
+.column-steps {
+  flex-basis: 50%;
 }
 
 .column ul {
