@@ -1,4 +1,22 @@
 body{
     background-color: rgba(17, 137, 243, 0.1);
     font-family: Verdana, sans-serif;
+    width: 800px;
+}
+
+.title{ 
+    text-align: center;
+}
+
+.column{
+    width: 600px;
+    padding: 0 100px;
+}
+
+h4{
+    color:darkgreen;
+}
+
+p, ul, ol{
+    font-size: 15px;
 }
