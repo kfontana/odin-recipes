@@ -1,50 +1,52 @@
-body{
-    background-color: rgba(17, 137, 243, 0.1);
-    font-family: Verdana, sans-serif;
+body {
+  background-color: rgba(17, 137, 243, 0.1);
+  font-family: Verdana, sans-serif;
 }
 
-.title{ 
-    text-align: center;
+.title {
+  text-align: center;
 }
 
-h4{
-    color:darkgreen;
+h4 {
+  color: darkgreen;
 }
 
-p, ul, ol{
-    font-size: 15px;
+p,
+ul,
+ol {
+  font-size: 15px;
 }
 
-.index-container{
-    display: flex;
-    width: 800px;
-    margin: 30px auto;
+.index-container {
+  display: flex;
+  width: 800px;
+  margin: 30px auto;
 }
 
-.index-container li{
-    margin: auto;
-    font-size: 20px;
+.index-container li {
+  margin: auto;
+  font-size: 20px;
 }
 
-.column{
-    display: flex;
-    width: 800px;
-    margin: 30px auto;
+.column {
+  display: flex;
+  width: 800px;
+  margin: 30px auto;
 }
 
-.column-description{
-    width: 30%;
-    margin: auto;
+.column-description {
+  width: 30%;
+  margin: auto;
 }
 
-.column ul{
-    padding-left: 20px;
+.column ul {
+  padding-left: 20px;
 }
 
-.column ul li{
-    list-style-type: circle;
+.column ul li {
+  list-style-type: circle;
 }
 
-.column ol{
-    padding-left: 20px;
+.column ol {
+  padding-left: 20px;
 }
